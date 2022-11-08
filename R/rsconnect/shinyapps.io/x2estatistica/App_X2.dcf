@@ -1,0 +1,13 @@
+name: App_X2
+title: App_X2
+username:
+account: x2estatistica
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4756559
+bundleId: 6444393
+url: https://x2estatistica.shinyapps.io/App_X2/
+when: 1666815498.15711
+lastSyncTime: 1666815498.15712
+asMultiple: FALSE
+asStatic: FALSE

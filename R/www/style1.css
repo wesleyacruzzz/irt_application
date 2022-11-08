@@ -1,0 +1,56 @@
+.nav li.nav-item a.active {
+  background-color: red !important;
+  color: white;
+}
+
+.nav li.nav-item a {
+  color: red;
+}
+
+.navbar-expand-md>.container-fluid::after {
+      font-weight: bold;
+      color: red;
+      position: absolute;
+      left: 10em;
+      content: "Personal report of performance";
+}
+
+.btn-default {
+    color: white;
+    border-color: white;
+    background-color: black;
+    box-shadow: 0 4px 6px rgb(50 50 93 / 11%), 0 1px 3px rgb(0 0 0 / 8%);
+}
+
+.btn-default .active {
+    color: white;
+    border-color: white;
+    background-color: red;
+    box-shadow: 0 4px 6px rgb(50 50 93 / 11%), 0 1px 3px rgb(0 0 0 / 8%);
+}
+
+.btn-group .btn, .input-group .btn {
+    margin-right: 0;
+    transform: translateY(0);
+    background-color: black;
+    border-color: white;
+}
+
+.btn-default:focus, .btn-default:hover {
+    color: black !important;
+    background-color: red !important;
+}
+
+
+.btn-default:not(:disabled):not(.disabled).active, .btn-default:not(:disabled):not(.disabled):active, .show>.btn-default.dropdown-toggle {
+    color: white;
+    border-color: white;
+    background-color: red;
+}
+
+.navbar>.container, .navbar>.container-fluid {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
