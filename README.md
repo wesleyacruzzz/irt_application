@@ -12,7 +12,7 @@ We tested this MVP with mock data, so no person in our dataset exists in real li
 
 <p float="left">
   <img src="https://github.com/wesleyacruzzz/irt_application/blob/main/Images/teacher.png" width="500" />
-  <img src="https://github.com/wesleyacruzzz/irt_application/blob/main/Images/students1.png" width="500" /> 
+  <img src="https://github.com/wesleyacruzzz/irt_application/blob/main/Images/students2.png" width="500" /> 
 </p>
 
 Here's the link to our application, now open to the public: https://x2estatistica.shinyapps.io/App_X2/
